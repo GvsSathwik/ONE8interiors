@@ -94,8 +94,8 @@ textarea:focus-visible {
   flex: 0 0 auto;
   align-items: center;
   justify-content: center;
-  width: 70px;
-  height: 70px;
+  width: 96px;
+  height: 96px;
   overflow: hidden;
   background: transparent;
   transition: background-color 0.3s ease;
@@ -967,8 +967,8 @@ h2 i {
 }
 
 .brand-logo-footer {
-  width: 76px;
-  height: 76px;
+  width: 96px;
+  height: 96px;
 }
 
 .footer-statement {
@@ -1149,8 +1149,8 @@ h2 i {
   }
 
   .brand-logo {
-    width: 60px;
-    height: 60px;
+    width: 76px;
+    height: 76px;
   }
 
   .main-nav {
